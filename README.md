@@ -9,7 +9,7 @@ This project will explain how we can implement the light and dark mode with Cubi
 
 ## Getting Started
 
-The easiest way to add theme support in application by using the Cubit state management.
+The easiest way to add theme support in application by using the Cubit state management. In this demo we are updating the backgorund color and text color for button and lables. 
 
 ### Dependencies
 1. Bloc: Used `flutter_bloc` library for state management.  [Bloc](https://pub.dev/packages/flutter_bloc)  
