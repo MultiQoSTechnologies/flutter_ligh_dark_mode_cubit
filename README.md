@@ -1,6 +1,6 @@
-# ligh_dark_mode_cubit
+# Light and Dark mode with cubit
 
-A new Flutter project.
+This project will explain how we can implement the light and dark mode with Cubit state management architecture. 
 
 ## Getting Started
 
