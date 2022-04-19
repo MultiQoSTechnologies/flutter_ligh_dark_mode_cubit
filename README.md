@@ -33,7 +33,7 @@ The easiest way to add theme support in application by using the Cubit state man
     └── ...
     
     
-    # Demo
+# Demo
     
    
   https://user-images.githubusercontent.com/94122297/163949199-a66437b2-5d1f-452a-8cca-87cb54549a74.mov
